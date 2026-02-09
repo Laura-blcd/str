@@ -59,4 +59,4 @@ RUN echo "xdebug.start_with_request=yes" >> /usr/local/etc/php/conf.d/xdebug.ini
 
 RUN npm install -g yarn
 
-WORKDIR /var/www/filmoteca
+WORKDIR /var/www/str
